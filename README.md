@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://github.com/mini-niko"><img src="./niko.png"></a></br>
+  <a href="https://github.com/mini-niko"><img src="./niko.png"></a></br>
   <a href="https://github.com/mini-niko"><img src="https://github-readme-stats.vercel.app/api?username=mini-niko&hide_border=true&show_icons=true&theme=radical" alt="Miniko's Github Status"></a></br>
   <a href="https://github.com/mini-niko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-niko&theme=radical&hide_border=true" alt="Miniko's Github Status"></a></br>
   <a href="https://github.com/mini-niko"><img src="http://github-readme-streak-stats.herokuapp.com?user=mini-niko&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Miniko's Github Status"></a><br>
@@ -31,17 +31,17 @@
 <div align="right">
   <h1>⚙️ Programming experience ⚙️</h1>
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" title="Discord.js">
-  <img heigth="15" width="15" vspace="5" hspace="5" src="https://static.vecteezy.com/system/resources/thumbnails/017/398/790/small_2x/white-circle-free-png.png">
+  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img heigth="15" width="15" vspace="5" hspace="5" src="https://static.vecteezy.com/system/resources/thumbnails/017/398/790/small_2x/white-circle-free-png.png">
+  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  title="MySql">
-  <img heigth="15" width="15" vspace="5" hspace="5" src="https://static.vecteezy.com/system/resources/thumbnails/017/398/790/small_2x/white-circle-free-png.png">
+  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-  <img heigth="15" width="15" vspace="5" hspace="5" src="https://static.vecteezy.com/system/resources/thumbnails/017/398/790/small_2x/white-circle-free-png.png">
+  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html 5">
-  <img heigth="15" width="15" vspace="5" hspace="5" src="https://static.vecteezy.com/system/resources/thumbnails/017/398/790/small_2x/white-circle-free-png.png">
+  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Css 3">
-  <img heigth="15" width="15" vspace="5" hspace="5" src="https://static.vecteezy.com/system/resources/thumbnails/017/398/790/small_2x/white-circle-free-png.png">
+  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
 </div>
 
