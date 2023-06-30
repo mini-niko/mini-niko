@@ -30,7 +30,7 @@
 
 <div align="right">
   <h1>⚙️ Programming experience ⚙️</h1>
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" title="Discord.js">
+  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord.js">
   <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
   <img heigth="15" vspace="5" hspace="5" src="./separate.png">
@@ -44,4 +44,33 @@
   <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
 </div>
+
+<div align="left">
+  <h1>☎️ Contact me ☎️</h1>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left">
+      <p>xavierdeoliveiramauricio@gmail.com</p>  
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="left">
+      <p>just_miniko</p>  
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left">
+      <p>@just_miniko</p>
+    </li>
+  </ul>
+</div>
+
+<!--
+Adicionar:
+- Gmail
+- Linkedin
+- Telegram
+- Whatsapp
+- Instagram
+- Twitter
+- Discord
+-->
 
