@@ -9,7 +9,7 @@
 <div align="left">
   <h1>📝 About me 📝</h1>
   <br>
-  <p align="left">Hello! I'm Miniko. I'm a student and a programming aspirant, one of my hobbies. Currently, I'm not very experienced, but I'm trying hard to learn more and more! Ah, and I would love to share knowledge, so if you're interested, I'm at hand :)</p>
+  <p align="left">Hello! I'm Miniko. I'm a student and a programming aspirant, one of my hobbies. Currently, I'm not very experienced, but I'm trying hard to learn more and more! Ah, and I would love to share knowledge, so if you're interested, I'm at hand</p>
   <br>
   <img heigth="640" width="360" src="https://64.media.tumblr.com/99e864db78392677a64d1ec8071141f5/17f871f724b8af07-bc/s1280x1920/e1e3ec85038300e9bc3d1e75acd179115f30c462.gifv" alt="Niko" align="left"  title="Niko :)">
   <br>
@@ -20,7 +20,7 @@
     <b>🌐 Nationality: </b> Brazillian
   </li>
   <li>
-    <b>🎯 Hobbies: </b> programming, playing games, playing instruments
+    <b>🎯 Hobbies: </b> programming, playing games, playing instruments and dance
   </li>
   <li>
     <b>⭐ Favorite things: </b> OneShot, AJR, math, song, dance, and a good cup of cafe
