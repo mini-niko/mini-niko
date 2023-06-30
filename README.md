@@ -14,7 +14,6 @@
   <img heigth="768" width="432" src="https://64.media.tumblr.com/99e864db78392677a64d1ec8071141f5/17f871f724b8af07-bc/s1280x1920/e1e3ec85038300e9bc3d1e75acd179115f30c462.gifv" alt="Niko" align="left"  title="Niko :)">
   <br>
   <br>
-  <br>
   <li>
     <b>💡 Name: </b> Maurício Xavier de Oliveira
   </li>
@@ -27,7 +26,6 @@
   <li>
     <b>⭐ Favorite things: </b> OneShot, AJR, math, song, dance, and a good cup of cafe
   </li>
-  <br>
   <br>
   <br>
 </div>
