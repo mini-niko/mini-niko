@@ -23,7 +23,7 @@
     <b>🎯 Hobbies: </b> programming, playing games, playing instruments and dance
   </li>
   <li>
-    <b>⭐ Favorite things: </b> OneShot, AJR, math, song, dance, and a good cup of cafe
+    <b>⭐ Favorite things: </b> OneShot, AJR, math, song, dance, and a good cup of coffee
   </li>
   <br>
 </div>
@@ -31,17 +31,11 @@
 <div align="right">
   <h1>⚙️ Programming experience ⚙️</h1>
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord.js">
-  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  title="MySql">
-  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html 5">
-  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Css 3">
-  <img heigth="15" vspace="5" hspace="5" src="./separate.png">
   <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
 </div>
 
