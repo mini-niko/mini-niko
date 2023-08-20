@@ -43,8 +43,9 @@
   <h1>☎️ Contact me ☎️</h1>
   <ul>
     <li>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left">
-      <p>xavierdeoliveiramauricio@gmail.com</p>  
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left" href="https://www.instagram.com/just_miniko/" target="_blank">
+    </a>
+    <p>xavierdeoliveiramauricio@gmail.com</p>  
     </li>
     <li>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left">
@@ -59,16 +60,8 @@
       <p>just_miniko</p>
     </li>
     <li>
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" align="left">
-      <p>Contact me on another social media</p>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" align="left">
-      <p>Contact me on another social media</p>
-    </li>
-    <li>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left">
-      <p>Coming soon...</p>  
+      <p>Maurício Xavier de Oliveira</p>  
     </li>
   </ul>
 </div>
