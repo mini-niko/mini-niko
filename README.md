@@ -43,25 +43,34 @@
   <h1>☎️ Contact me ☎️</h1>
   <ul>
     <li>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left" href="https://www.instagram.com/just_miniko/" target="_blank">
-    </a>
+      <a href="mailto:xavierdeoliveiramauricio@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left" href="" target="_blank">
+      </a>
     <p>xavierdeoliveiramauricio@gmail.com</p>  
     </li>
     <li>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left">
+      <a href="https://www.instagram.com/mauricio_xavier_de_oliveira/" target="_blank"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left">
+      </a>
       <p>@just_miniko</p>
     </li>
     <li>
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="left">
+      <a href="https://twitter.com/just_miniko" target="_blank"> 
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="left">
+      </a>
       <p>@just_miniko</p>
     </li>
     <li>
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="left">
+      <a href="" target="_blank"> 
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="left">
+      </a>
       <p>just_miniko</p>
     </li>
     <li>
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left">
-      <p>Maurício Xavier de Oliveira</p>  
+      <a href="https://www.linkedin.com/in/maurício-xavier-de-oliveira-69878b285/" target="_blank"> 
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left">
+      </a>
+      <p>Maurício Xavier de Oliveira</p>
     </li>
   </ul>
 </div>
