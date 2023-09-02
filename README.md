@@ -30,13 +30,27 @@
 
 <div align="right">
   <h1>⚙️ Programming experience ⚙️</h1>
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord.js">
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  title="MySql">
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html 5">
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Css 3">
-  <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <a href="https://discord.js.org" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord.js">
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  title="MySql">
+  </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html 5">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Css 3">
+  </a>
+  <a href="https://www.javascript.com" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
+  </a>
 </div>
 
 
