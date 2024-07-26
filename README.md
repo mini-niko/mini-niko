@@ -2,13 +2,13 @@
   <a href="https://github.com/mini-niko"><img src="./niko.png"></a></br></br>
   <a href="https://github.com/mini-niko"><img src="https://github-readme-stats.vercel.app/api?username=mini-niko&hide_border=true&show_icons=true&theme=radical" alt="Miniko's Github Status"></a>
   <a href="https://github.com/mini-niko"><img src="http://github-readme-streak-stats.herokuapp.com?user=mini-niko&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Miniko's Github Status"></a><br>
+  <h1>Estudante de programação</h1>
 </div>
-
 
 <div>
   <h1>Sobre mim</h1>
   <br>
-  <p align="center">Olá! Me chamo Maurício, mas pode me chamar por Miniko. Estudo programação desde 2020 e, desde lá, construí e construo projetos utilizando Java e Javascript! Além disso, eu amaria compartilhar conhecimento, então se você tiver interesse, estou à disposição</p>
+  <p align="center">Olá! Me chamo Maurício, mas pode me chamar por Miniko. Estudo programação desde 2020 e, desde lá, construí e construo projetos utilizando Java e Javascript! Meu foco é no desenvolvimento de sites e sistemas web e desktop. Além disso, eu amaria compartilhar conhecimento, então se você tiver interesse, estou à disposição!</p>
   <br>
   <div align="left">
     <ul>
@@ -43,8 +43,6 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
-
 
 <div align="center">
 
