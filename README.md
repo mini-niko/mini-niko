@@ -21,6 +21,26 @@
       <li>
         <b>🎯 Hobbies:</b> Programar, jogar jogos e tocar instrumentos.
       </li>
+      <li>
+        <b>📜 Formação:</b><br/><br/>
+        <ul>
+          <li>
+            <b>SENAC Santa Catarina</b><br/>
+            Certificado, Programador de Sistemas<br/>
+            Março/2023 - Agosto/2023<br/><br/>
+          </li>
+          <li>
+            <b>SENAC Santa Catarina</b><br/>
+            Certificado, Programador Web<br/>
+            Agosto/2023 - Dezembro/2023<br/><br/>
+          </li>
+          <li>
+            <b>Universidade do Oeste de Santa Catarina - UNOESC</b><br/>
+            Tecnólogo, Programador de Sistemas<br/>
+            Janeiro/2024 - Junho/2026
+          </li>
+        </ul>
+      </li>
     </ul>
   </div>
 </div>
